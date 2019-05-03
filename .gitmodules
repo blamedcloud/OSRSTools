@@ -1,0 +1,3 @@
+[submodule "OSRS-API-Wrapper"]
+	path = osrsApiWrapper
+	url = https://github.com/blamedcloud/OSRS-API-Wrapper
